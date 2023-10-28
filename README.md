@@ -1,8 +1,10 @@
 - npx create-react-app netflix
 - Configured Tailwind CSS
 - Header
+- Routing
 - Login Form / Sign In Form
 - Sign Up Form
+- Form Vaidation
 
 # Features
 
