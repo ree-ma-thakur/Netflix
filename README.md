@@ -5,6 +5,13 @@
 - Login Form / Sign In Form
 - Sign Up Form
 - Form Vaidation
+- Firebase setup
+- Deploy our app to production
+- Create SignUp User Account
+- Implement Sign in user API
+- Created our Redux store with user slice
+- Implement Sign out
+- Update Profile API
 
 # Features
 
